@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\hinan\\\\Documents\\\\businessplan_demo\")",
+      "Bash(python:*)",
+      "Bash(findstr:*)",
+      "Bash(netsh advfirewall firewall show rule:*)",
+      "Bash(del \"C:\\\\Users\\\\hinan\\\\Documents\\\\businessplan_demo\\\\.streamlit\\\\config.toml\")",
+      "Bash(git add:*)"
+    ]
+  }
+}
